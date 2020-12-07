@@ -1,7 +1,11 @@
 # bd_sg_bing
 利用嵌套整合百度，搜狗，必应搜索结果，tampermonkey 插件 (默认三引擎结果)
+
+测试插件，并不稳定，性能不高
+
 #### baidu + sogou
 ![MMA](thumbs/MMA.png)
+
 #### baidu + bing
 ![dog](thumbs/dog.png)
 
