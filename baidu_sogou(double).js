@@ -4,8 +4,8 @@
 // @version     0.1
 // @author      Will_the_Wizard
 // @description 聚合百度和搜狗和必应结果
-// @homepageURL 
-// @updateURL   
+// @homepageURL https://github.com/iwtw666/bd_sg_bing
+// @updateURL   https://github.com/iwtw666/bd_sg_bing
 // @icon        
 // @match       http*://www.baidu.com/*
 // @grant       none
